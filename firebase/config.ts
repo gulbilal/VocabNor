@@ -2,12 +2,12 @@ import { getApps, initializeApp } from "firebase/app";
 
 // Replace these placeholder values with your Firebase web app configuration.
 const firebaseConfig = {
-  apiKey: "AIzaSyDCHStnCgmSS40XfAsA2d4kXBpfg0FBwsE",
-  authDomain: "vocabnor.firebaseapp.com",
-  projectId: "vocabnor",
-  storageBucket: "vocabnor.firebasestorage.app",
-  messagingSenderId: "1050479950917",
-  appId: "1:1050479950917:web:072602e66b2b5def13f72c",
+  apiKey: process.env.EXPO_PUBLIC_FIREBASE_API_KEY,
+  authDomain: process.env.EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.EXPO_PUBLIC_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.EXPO_PUBLIC_FIREBASE_APP_ID,
 };
 
 export const firebaseApp =

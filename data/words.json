@@ -1,56 +1,1402 @@
 [
-  { "id": 1, "norwegian": "hus", "english": "house" },
-  { "id": 2, "norwegian": "bil", "english": "car" },
-  { "id": 3, "norwegian": "hund", "english": "dog" },
-  { "id": 4, "norwegian": "katt", "english": "cat" },
-  { "id": 5, "norwegian": "bok", "english": "book" },
-  { "id": 6, "norwegian": "skole", "english": "school" },
-  { "id": 7, "norwegian": "vann", "english": "water" },
-  { "id": 8, "norwegian": "mat", "english": "food" },
-  { "id": 9, "norwegian": "barn", "english": "child" },
-  { "id": 10, "norwegian": "venn", "english": "friend" },
-
-  { "id": 11, "norwegian": "arbeid", "english": "work" },
-  { "id": 12, "norwegian": "jobb", "english": "job" },
-  { "id": 13, "norwegian": "familie", "english": "family" },
-  { "id": 14, "norwegian": "hjem", "english": "home" },
-  { "id": 15, "norwegian": "butikk", "english": "shop" },
-  { "id": 16, "norwegian": "sykehus", "english": "hospital" },
-  { "id": 17, "norwegian": "lærer", "english": "teacher" },
-  { "id": 18, "norwegian": "elev", "english": "student" },
-  { "id": 19, "norwegian": "reise", "english": "travel" },
-  { "id": 20, "norwegian": "ferie", "english": "vacation" },
-
-  { "id": 21, "norwegian": "mulighet", "english": "opportunity" },
-  { "id": 22, "norwegian": "utdanning", "english": "education" },
-  { "id": 23, "norwegian": "erfaring", "english": "experience" },
-  { "id": 24, "norwegian": "ansvar", "english": "responsibility" },
-  { "id": 25, "norwegian": "utfordring", "english": "challenge" },
-  { "id": 26, "norwegian": "samarbeid", "english": "cooperation" },
-  { "id": 27, "norwegian": "forbedring", "english": "improvement" },
-  { "id": 28, "norwegian": "utvikling", "english": "development" },
-  { "id": 29, "norwegian": "miljø", "english": "environment" },
-  { "id": 30, "norwegian": "samfunn", "english": "society" },
-
-  { "id": 31, "norwegian": "arbeidsgiver", "english": "employer" },
-  { "id": 32, "norwegian": "arbeidstaker", "english": "employee" },
-  { "id": 33, "norwegian": "inntekt", "english": "income" },
-  { "id": 34, "norwegian": "utgift", "english": "expense" },
-  { "id": 35, "norwegian": "rettighet", "english": "right" },
-  { "id": 36, "norwegian": "forpliktelse", "english": "obligation" },
-  { "id": 37, "norwegian": "etterspørsel", "english": "demand" },
-  { "id": 38, "norwegian": "tilbud", "english": "supply" },
-  { "id": 39, "norwegian": "pålitelighet", "english": "reliability" },
-  { "id": 40, "norwegian": "tilgjengelighet", "english": "availability" },
-
-  { "id": 41, "norwegian": "forutsetning", "english": "prerequisite" },
-  { "id": 42, "norwegian": "gjennomføring", "english": "implementation" },
-  { "id": 43, "norwegian": "hensiktsmessig", "english": "appropriate" },
-  { "id": 44, "norwegian": "bærekraft", "english": "sustainability" },
-  { "id": 45, "norwegian": "bevissthet", "english": "awareness" },
-  { "id": 46, "norwegian": "sammenheng", "english": "connection" },
-  { "id": 47, "norwegian": "forventning", "english": "expectation" },
-  { "id": 48, "norwegian": "tilnærming", "english": "approach" },
-  { "id": 49, "norwegian": "forvaltning", "english": "management" },
-  { "id": 50, "norwegian": "gjennomsnitt", "english": "average" }
+  {
+    "id": 1,
+    "norwegian": "hei",
+    "english": "hello",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 2,
+    "norwegian": "hallo",
+    "english": "hello",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 3,
+    "norwegian": "hadet",
+    "english": "goodbye",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 4,
+    "norwegian": "takk",
+    "english": "thanks",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 5,
+    "norwegian": "unnskyld",
+    "english": "sorry",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 6,
+    "norwegian": "velkommen",
+    "english": "welcome",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 7,
+    "norwegian": "navn",
+    "english": "name",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 8,
+    "norwegian": "fornavn",
+    "english": "first name",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 9,
+    "norwegian": "etternavn",
+    "english": "surname",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 10,
+    "norwegian": "adresse",
+    "english": "address",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 11,
+    "norwegian": "telefon",
+    "english": "telephone",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 12,
+    "norwegian": "epost",
+    "english": "email",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 13,
+    "norwegian": "land",
+    "english": "country",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 14,
+    "norwegian": "by",
+    "english": "city",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 15,
+    "norwegian": "språk",
+    "english": "language",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 16,
+    "norwegian": "norsk",
+    "english": "Norwegian",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 17,
+    "norwegian": "engelsk",
+    "english": "English",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 18,
+    "norwegian": "venn",
+    "english": "friend",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 19,
+    "norwegian": "person",
+    "english": "person",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 20,
+    "norwegian": "mann",
+    "english": "man",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 21,
+    "norwegian": "kvinne",
+    "english": "woman",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 22,
+    "norwegian": "gutt",
+    "english": "boy",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 23,
+    "norwegian": "jente",
+    "english": "girl",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 24,
+    "norwegian": "alder",
+    "english": "age",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 25,
+    "norwegian": "år",
+    "english": "year",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 26,
+    "norwegian": "jobb",
+    "english": "job",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 27,
+    "norwegian": "student",
+    "english": "student",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 28,
+    "norwegian": "lærer",
+    "english": "teacher",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 29,
+    "norwegian": "gift",
+    "english": "married",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 30,
+    "norwegian": "singel",
+    "english": "single",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 31,
+    "norwegian": "bor",
+    "english": "live",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 32,
+    "norwegian": "kommer",
+    "english": "come",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 33,
+    "norwegian": "snakker",
+    "english": "speak",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 34,
+    "norwegian": "heter",
+    "english": "am called",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 35,
+    "norwegian": "møtes",
+    "english": "meet",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 36,
+    "norwegian": "god",
+    "english": "good",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 37,
+    "norwegian": "bra",
+    "english": "fine",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 38,
+    "norwegian": "hyggelig",
+    "english": "nice",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 39,
+    "norwegian": "ny",
+    "english": "new",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 40,
+    "norwegian": "gammel",
+    "english": "old",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 41,
+    "norwegian": "morgen",
+    "english": "morning",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 42,
+    "norwegian": "dag",
+    "english": "day",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 43,
+    "norwegian": "kveld",
+    "english": "evening",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 44,
+    "norwegian": "natt",
+    "english": "night",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 45,
+    "norwegian": "ja",
+    "english": "yes",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 46,
+    "norwegian": "nei",
+    "english": "no",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 47,
+    "norwegian": "kanskje",
+    "english": "maybe",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 48,
+    "norwegian": "og",
+    "english": "and",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 49,
+    "norwegian": "men",
+    "english": "but",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 50,
+    "norwegian": "også",
+    "english": "also",
+    "level": "A1",
+    "category": "Greetings"
+  },
+  {
+    "id": 51,
+    "norwegian": "null",
+    "english": "zero",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 52,
+    "norwegian": "en",
+    "english": "one",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 53,
+    "norwegian": "to",
+    "english": "two",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 54,
+    "norwegian": "tre",
+    "english": "three",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 55,
+    "norwegian": "fire",
+    "english": "four",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 56,
+    "norwegian": "fem",
+    "english": "five",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 57,
+    "norwegian": "seks",
+    "english": "six",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 58,
+    "norwegian": "sju",
+    "english": "seven",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 59,
+    "norwegian": "åtte",
+    "english": "eight",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 60,
+    "norwegian": "ni",
+    "english": "nine",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 61,
+    "norwegian": "ti",
+    "english": "ten",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 62,
+    "norwegian": "elleve",
+    "english": "eleven",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 63,
+    "norwegian": "tolv",
+    "english": "twelve",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 64,
+    "norwegian": "tretten",
+    "english": "thirteen",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 65,
+    "norwegian": "fjorten",
+    "english": "fourteen",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 66,
+    "norwegian": "femten",
+    "english": "fifteen",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 67,
+    "norwegian": "seksten",
+    "english": "sixteen",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 68,
+    "norwegian": "sytten",
+    "english": "seventeen",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 69,
+    "norwegian": "atten",
+    "english": "eighteen",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 70,
+    "norwegian": "nitten",
+    "english": "nineteen",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 71,
+    "norwegian": "tjue",
+    "english": "twenty",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 72,
+    "norwegian": "tretti",
+    "english": "thirty",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 73,
+    "norwegian": "førti",
+    "english": "forty",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 74,
+    "norwegian": "femti",
+    "english": "fifty",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 75,
+    "norwegian": "seksti",
+    "english": "sixty",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 76,
+    "norwegian": "sytti",
+    "english": "seventy",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 77,
+    "norwegian": "åtti",
+    "english": "eighty",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 78,
+    "norwegian": "nitti",
+    "english": "ninety",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 79,
+    "norwegian": "hundre",
+    "english": "hundred",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 80,
+    "norwegian": "tusen",
+    "english": "thousand",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 81,
+    "norwegian": "million",
+    "english": "million",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 82,
+    "norwegian": "første",
+    "english": "first",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 83,
+    "norwegian": "andre",
+    "english": "second",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 84,
+    "norwegian": "tredje",
+    "english": "third",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 85,
+    "norwegian": "fjerde",
+    "english": "fourth",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 86,
+    "norwegian": "femte",
+    "english": "fifth",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 87,
+    "norwegian": "sjette",
+    "english": "sixth",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 88,
+    "norwegian": "sjuende",
+    "english": "seventh",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 89,
+    "norwegian": "åttende",
+    "english": "eighth",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 90,
+    "norwegian": "niende",
+    "english": "ninth",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 91,
+    "norwegian": "tiende",
+    "english": "tenth",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 92,
+    "norwegian": "nummer",
+    "english": "number",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 93,
+    "norwegian": "pris",
+    "english": "price",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 94,
+    "norwegian": "krone",
+    "english": "krone",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 95,
+    "norwegian": "øre",
+    "english": "øre",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 96,
+    "norwegian": "mengde",
+    "english": "quantity",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 97,
+    "norwegian": "flere",
+    "english": "more",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 98,
+    "norwegian": "færre",
+    "english": "fewer",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 99,
+    "norwegian": "mange",
+    "english": "many",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 100,
+    "norwegian": "få",
+    "english": "few",
+    "level": "A1",
+    "category": "Numbers"
+  },
+  {
+    "id": 101,
+    "norwegian": "tid",
+    "english": "time",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 102,
+    "norwegian": "dato",
+    "english": "date",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 103,
+    "norwegian": "dag",
+    "english": "day",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 104,
+    "norwegian": "uke",
+    "english": "week",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 105,
+    "norwegian": "måned",
+    "english": "month",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 106,
+    "norwegian": "år",
+    "english": "year",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 107,
+    "norwegian": "klokke",
+    "english": "clock",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 108,
+    "norwegian": "time",
+    "english": "hour",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 109,
+    "norwegian": "minutt",
+    "english": "minute",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 110,
+    "norwegian": "sekund",
+    "english": "second",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 111,
+    "norwegian": "mandag",
+    "english": "Monday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 112,
+    "norwegian": "tirsdag",
+    "english": "Tuesday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 113,
+    "norwegian": "onsdag",
+    "english": "Wednesday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 114,
+    "norwegian": "torsdag",
+    "english": "Thursday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 115,
+    "norwegian": "fredag",
+    "english": "Friday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 116,
+    "norwegian": "lørdag",
+    "english": "Saturday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 117,
+    "norwegian": "søndag",
+    "english": "Sunday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 118,
+    "norwegian": "hverdag",
+    "english": "weekday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 119,
+    "norwegian": "helg",
+    "english": "weekend",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 120,
+    "norwegian": "ferie",
+    "english": "vacation",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 121,
+    "norwegian": "januar",
+    "english": "January",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 122,
+    "norwegian": "februar",
+    "english": "February",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 123,
+    "norwegian": "mars",
+    "english": "March",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 124,
+    "norwegian": "april",
+    "english": "April",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 125,
+    "norwegian": "mai",
+    "english": "May",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 126,
+    "norwegian": "juni",
+    "english": "June",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 127,
+    "norwegian": "juli",
+    "english": "July",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 128,
+    "norwegian": "august",
+    "english": "August",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 129,
+    "norwegian": "september",
+    "english": "September",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 130,
+    "norwegian": "oktober",
+    "english": "October",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 131,
+    "norwegian": "november",
+    "english": "November",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 132,
+    "norwegian": "desember",
+    "english": "December",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 133,
+    "norwegian": "morgen",
+    "english": "morning",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 134,
+    "norwegian": "formiddag",
+    "english": "late morning",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 135,
+    "norwegian": "ettermiddag",
+    "english": "afternoon",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 136,
+    "norwegian": "kveld",
+    "english": "evening",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 137,
+    "norwegian": "natt",
+    "english": "night",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 138,
+    "norwegian": "midnatt",
+    "english": "midnight",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 139,
+    "norwegian": "middag",
+    "english": "midday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 140,
+    "norwegian": "pause",
+    "english": "break",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 141,
+    "norwegian": "i dag",
+    "english": "today",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 142,
+    "norwegian": "i går",
+    "english": "yesterday",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 143,
+    "norwegian": "i morgen",
+    "english": "tomorrow",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 144,
+    "norwegian": "nå",
+    "english": "now",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 145,
+    "norwegian": "snart",
+    "english": "soon",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 146,
+    "norwegian": "senere",
+    "english": "later",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 147,
+    "norwegian": "tidlig",
+    "english": "early",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 148,
+    "norwegian": "sent",
+    "english": "late",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 149,
+    "norwegian": "før",
+    "english": "before",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 150,
+    "norwegian": "etter",
+    "english": "after",
+    "level": "A1",
+    "category": "Time & Dates"
+  },
+  {
+    "id": 151,
+    "norwegian": "familie",
+    "english": "family",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 152,
+    "norwegian": "mor",
+    "english": "mother",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 153,
+    "norwegian": "far",
+    "english": "father",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 154,
+    "norwegian": "forelder",
+    "english": "parent",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 155,
+    "norwegian": "sønn",
+    "english": "son",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 156,
+    "norwegian": "datter",
+    "english": "daughter",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 157,
+    "norwegian": "barn",
+    "english": "child",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 158,
+    "norwegian": "bror",
+    "english": "brother",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 159,
+    "norwegian": "søster",
+    "english": "sister",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 160,
+    "norwegian": "søsken",
+    "english": "siblings",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 161,
+    "norwegian": "bestemor",
+    "english": "grandmother",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 162,
+    "norwegian": "bestefar",
+    "english": "grandfather",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 163,
+    "norwegian": "barnebarn",
+    "english": "grandchild",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 164,
+    "norwegian": "onkel",
+    "english": "uncle",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 165,
+    "norwegian": "tante",
+    "english": "aunt",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 166,
+    "norwegian": "fetter",
+    "english": "male cousin",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 167,
+    "norwegian": "kusine",
+    "english": "female cousin",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 168,
+    "norwegian": "slekt",
+    "english": "relatives",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 169,
+    "norwegian": "ektefelle",
+    "english": "spouse",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 170,
+    "norwegian": "mann",
+    "english": "husband",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 171,
+    "norwegian": "kone",
+    "english": "wife",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 172,
+    "norwegian": "kjæreste",
+    "english": "boyfriend/girlfriend",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 173,
+    "norwegian": "venn",
+    "english": "friend",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 174,
+    "norwegian": "nabo",
+    "english": "neighbor",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 175,
+    "norwegian": "baby",
+    "english": "baby",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 176,
+    "norwegian": "ungdom",
+    "english": "youth",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 177,
+    "norwegian": "voksen",
+    "english": "adult",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 178,
+    "norwegian": "gammel",
+    "english": "old",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 179,
+    "norwegian": "gift",
+    "english": "married",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 180,
+    "norwegian": "singel",
+    "english": "single",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 181,
+    "norwegian": "skilt",
+    "english": "divorced",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 182,
+    "norwegian": "enke",
+    "english": "widow",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 183,
+    "norwegian": "enkemann",
+    "english": "widower",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 184,
+    "norwegian": "sammen",
+    "english": "together",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 185,
+    "norwegian": "alene",
+    "english": "alone",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 186,
+    "norwegian": "hjem",
+    "english": "home",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 187,
+    "norwegian": "bor",
+    "english": "live",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 188,
+    "norwegian": "elske",
+    "english": "love",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 189,
+    "norwegian": "hjelpe",
+    "english": "help",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 190,
+    "norwegian": "besøke",
+    "english": "visit",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 191,
+    "norwegian": "feire",
+    "english": "celebrate",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 192,
+    "norwegian": "bursdag",
+    "english": "birthday",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 193,
+    "norwegian": "gave",
+    "english": "gift",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 194,
+    "norwegian": "barneskole",
+    "english": "primary school",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 195,
+    "norwegian": "barnehage",
+    "english": "kindergarten",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 196,
+    "norwegian": "foreldremøte",
+    "english": "parent meeting",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 197,
+    "norwegian": "familieliv",
+    "english": "family life",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 198,
+    "norwegian": "slektning",
+    "english": "relative",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 199,
+    "norwegian": "generasjon",
+    "english": "generation",
+    "level": "A1",
+    "category": "Family"
+  },
+  {
+    "id": 200,
+    "norwegian": "oppvekst",
+    "english": "upbringing",
+    "level": "A1",
+    "category": "Family"
+  }
 ]
