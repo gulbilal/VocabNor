@@ -2,13 +2,17 @@ import { router } from "expo-router";
 import React from "react";
 import { Pressable, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
+import { useAuth } from "../context/AuthContext";
 
 export default function Index() {
+  const { signOut, user } = useAuth();
+
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
         <Text style={styles.title}>VocabNor 🇳🇴</Text>
         <Text style={styles.subtitle}>Your Ultimate Learning Companion</Text>
+        <Text style={styles.userEmail}>{user?.email}</Text>
       </View>
 
       <View style={styles.buttonContainer}>
@@ -35,6 +39,10 @@ export default function Index() {
           onPress={() => alert("Feature Coming Soon: Settings")}
         >
           <Text style={styles.buttonText}>Settings</Text>
+        </Pressable>
+
+        <Pressable style={styles.logoutButton} onPress={signOut}>
+          <Text style={styles.logoutButtonText}>Log Out</Text>
         </Pressable>
       </View>
     </SafeAreaView>
@@ -67,6 +75,12 @@ const styles = StyleSheet.create({
     color: "#336699",
   },
 
+  userEmail: {
+    color: "#336699",
+    fontSize: 14,
+    marginTop: 8,
+  },
+
   buttonContainer: {
     width: "100%",
     alignItems: "center",
@@ -91,5 +105,21 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontSize: 18,
     textAlign: "center",
+  },
+
+  logoutButton: {
+    borderColor: "#3399ff",
+    borderRadius: 10,
+    borderWidth: 2,
+    justifyContent: "center",
+    marginTop: 16,
+    paddingHorizontal: 24,
+    paddingVertical: 12,
+  },
+
+  logoutButtonText: {
+    color: "#0066cc",
+    fontSize: 16,
+    fontWeight: "bold",
   },
 });
