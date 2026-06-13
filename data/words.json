@@ -1398,5 +1398,4205 @@
     "english": "upbringing",
     "level": "A1",
     "category": "Family"
+  },
+  {
+    "id": 201,
+    "norwegian": "leilighet",
+    "english": "apartment",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 202,
+    "norwegian": "hus",
+    "english": "house",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 203,
+    "norwegian": "bygg",
+    "english": "building",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 204,
+    "norwegian": "etasje",
+    "english": "floor",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 205,
+    "norwegian": "kjeller",
+    "english": "basement",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 206,
+    "norwegian": "balkong",
+    "english": "balcony",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 207,
+    "norwegian": "hage",
+    "english": "garden",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 208,
+    "norwegian": "garasje",
+    "english": "garage",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 209,
+    "norwegian": "tak",
+    "english": "roof",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 210,
+    "norwegian": "vegg",
+    "english": "wall",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 211,
+    "norwegian": "gulv",
+    "english": "floor",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 212,
+    "norwegian": "trapp",
+    "english": "stairs",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 213,
+    "norwegian": "nøkkel",
+    "english": "key",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 214,
+    "norwegian": "lås",
+    "english": "lock",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 215,
+    "norwegian": "stue",
+    "english": "living room",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 216,
+    "norwegian": "soverom",
+    "english": "bedroom",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 217,
+    "norwegian": "spisestue",
+    "english": "dining room",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 218,
+    "norwegian": "gang",
+    "english": "hallway",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 219,
+    "norwegian": "vaskerom",
+    "english": "laundry room",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 220,
+    "norwegian": "toalett",
+    "english": "toilet",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 221,
+    "norwegian": "sofa",
+    "english": "sofa",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 222,
+    "norwegian": "lenestol",
+    "english": "armchair",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 223,
+    "norwegian": "skap",
+    "english": "cabinet",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 224,
+    "norwegian": "garderobe",
+    "english": "wardrobe",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 225,
+    "norwegian": "hylle",
+    "english": "shelf",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 226,
+    "norwegian": "speil",
+    "english": "mirror",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 227,
+    "norwegian": "lampe",
+    "english": "lamp",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 228,
+    "norwegian": "teppe",
+    "english": "carpet",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 229,
+    "norwegian": "pute",
+    "english": "pillow",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 230,
+    "norwegian": "dyne",
+    "english": "duvet",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 231,
+    "norwegian": "vaskemaskin",
+    "english": "washing machine",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 232,
+    "norwegian": "kjøleskap",
+    "english": "refrigerator",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 233,
+    "norwegian": "fryser",
+    "english": "freezer",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 234,
+    "norwegian": "komfyr",
+    "english": "stove",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 235,
+    "norwegian": "ovn",
+    "english": "oven",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 236,
+    "norwegian": "oppvaskmaskin",
+    "english": "dishwasher",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 237,
+    "norwegian": "vask",
+    "english": "sink",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 238,
+    "norwegian": "dusj",
+    "english": "shower",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 239,
+    "norwegian": "badekar",
+    "english": "bathtub",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 240,
+    "norwegian": "kran",
+    "english": "tap",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 241,
+    "norwegian": "elektrisitet",
+    "english": "electricity",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 242,
+    "norwegian": "varme",
+    "english": "heating",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 243,
+    "norwegian": "lys",
+    "english": "light",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 244,
+    "norwegian": "vannkran",
+    "english": "faucet",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 245,
+    "norwegian": "søppel",
+    "english": "garbage",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 246,
+    "norwegian": "postkasse",
+    "english": "mailbox",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 247,
+    "norwegian": "ringeklokke",
+    "english": "doorbell",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 248,
+    "norwegian": "utleier",
+    "english": "landlord",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 249,
+    "norwegian": "husleie",
+    "english": "rent",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 250,
+    "norwegian": "adressebok",
+    "english": "address book",
+    "level": "A1",
+    "category": "Home"
+  },
+  {
+    "id": 251,
+    "norwegian": "mat",
+    "english": "food",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 252,
+    "norwegian": "frokost",
+    "english": "breakfast",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 253,
+    "norwegian": "lunsj",
+    "english": "lunch",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 254,
+    "norwegian": "middag",
+    "english": "dinner",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 255,
+    "norwegian": "kveldsmat",
+    "english": "supper",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 256,
+    "norwegian": "ost",
+    "english": "cheese",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 257,
+    "norwegian": "smør",
+    "english": "butter",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 258,
+    "norwegian": "egg",
+    "english": "egg",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 259,
+    "norwegian": "kjøtt",
+    "english": "meat",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 260,
+    "norwegian": "kylling",
+    "english": "chicken",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 261,
+    "norwegian": "fisk",
+    "english": "fish",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 262,
+    "norwegian": "ris",
+    "english": "rice",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 263,
+    "norwegian": "pasta",
+    "english": "pasta",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 264,
+    "norwegian": "potet",
+    "english": "potato",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 265,
+    "norwegian": "suppe",
+    "english": "soup",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 266,
+    "norwegian": "salat",
+    "english": "salad",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 267,
+    "norwegian": "grønnsak",
+    "english": "vegetable",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 268,
+    "norwegian": "frukt",
+    "english": "fruit",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 269,
+    "norwegian": "appelsin",
+    "english": "orange",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 270,
+    "norwegian": "pære",
+    "english": "pear",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 271,
+    "norwegian": "jordbær",
+    "english": "strawberry",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 272,
+    "norwegian": "tomat",
+    "english": "tomato",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 273,
+    "norwegian": "agurk",
+    "english": "cucumber",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 274,
+    "norwegian": "gulrot",
+    "english": "carrot",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 275,
+    "norwegian": "løk",
+    "english": "onion",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 276,
+    "norwegian": "paprika",
+    "english": "bell pepper",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 277,
+    "norwegian": "banan",
+    "english": "banana",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 278,
+    "norwegian": "syltetøy",
+    "english": "jam",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 279,
+    "norwegian": "yoghurt",
+    "english": "yogurt",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 280,
+    "norwegian": "fløte",
+    "english": "cream",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 281,
+    "norwegian": "juice",
+    "english": "juice",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 282,
+    "norwegian": "brus",
+    "english": "soft drink",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 283,
+    "norwegian": "øl",
+    "english": "beer",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 284,
+    "norwegian": "vin",
+    "english": "wine",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 285,
+    "norwegian": "sukker",
+    "english": "sugar",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 286,
+    "norwegian": "salt",
+    "english": "salt",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 287,
+    "norwegian": "pepper",
+    "english": "pepper",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 288,
+    "norwegian": "saus",
+    "english": "sauce",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 289,
+    "norwegian": "is",
+    "english": "ice cream",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 290,
+    "norwegian": "kake",
+    "english": "cake",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 291,
+    "norwegian": "sjokolade",
+    "english": "chocolate",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 292,
+    "norwegian": "godteri",
+    "english": "candy",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 293,
+    "norwegian": "kjeks",
+    "english": "biscuit",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 294,
+    "norwegian": "smørbrød",
+    "english": "sandwich",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 295,
+    "norwegian": "pølse",
+    "english": "sausage",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 296,
+    "norwegian": "hamburger",
+    "english": "hamburger",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 297,
+    "norwegian": "pizza",
+    "english": "pizza",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 298,
+    "norwegian": "restaurant",
+    "english": "restaurant",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 299,
+    "norwegian": "meny",
+    "english": "menu",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 300,
+    "norwegian": "regning",
+    "english": "bill",
+    "level": "A1",
+    "category": "Food"
+  },
+  {
+    "id": 301,
+    "norwegian": "butikk",
+    "english": "shop",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 302,
+    "norwegian": "kunde",
+    "english": "customer",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 303,
+    "norwegian": "selger",
+    "english": "salesperson",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 304,
+    "norwegian": "vare",
+    "english": "product",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 305,
+    "norwegian": "handle",
+    "english": "shop",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 306,
+    "norwegian": "kjøpe",
+    "english": "buy",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 307,
+    "norwegian": "betale",
+    "english": "pay",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 308,
+    "norwegian": "pris",
+    "english": "price",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 309,
+    "norwegian": "tilbud",
+    "english": "offer",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 310,
+    "norwegian": "rabatt",
+    "english": "discount",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 311,
+    "norwegian": "kvittering",
+    "english": "receipt",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 312,
+    "norwegian": "pose",
+    "english": "bag",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 313,
+    "norwegian": "kurv",
+    "english": "basket",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 314,
+    "norwegian": "vogn",
+    "english": "cart",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 315,
+    "norwegian": "kasse",
+    "english": "checkout",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 316,
+    "norwegian": "kontant",
+    "english": "cash",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 317,
+    "norwegian": "bankkort",
+    "english": "bank card",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 318,
+    "norwegian": "mynt",
+    "english": "coin",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 319,
+    "norwegian": "seddel",
+    "english": "banknote",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 320,
+    "norwegian": "vekslepenger",
+    "english": "change",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 321,
+    "norwegian": "dyr",
+    "english": "expensive",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 322,
+    "norwegian": "billig",
+    "english": "cheap",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 323,
+    "norwegian": "gratis",
+    "english": "free",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 324,
+    "norwegian": "åpen",
+    "english": "open",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 325,
+    "norwegian": "stengt",
+    "english": "closed",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 326,
+    "norwegian": "marked",
+    "english": "market",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 327,
+    "norwegian": "kjøpesenter",
+    "english": "shopping center",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 328,
+    "norwegian": "supermarked",
+    "english": "supermarket",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 329,
+    "norwegian": "apotek",
+    "english": "pharmacy",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 330,
+    "norwegian": "bakeri",
+    "english": "bakery",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 331,
+    "norwegian": "slakter",
+    "english": "butcher",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 332,
+    "norwegian": "frisør",
+    "english": "hairdresser",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 333,
+    "norwegian": "størrelse",
+    "english": "size",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 334,
+    "norwegian": "liten",
+    "english": "small",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 335,
+    "norwegian": "stor",
+    "english": "large",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 336,
+    "norwegian": "prøve",
+    "english": "try on",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 337,
+    "norwegian": "bytte",
+    "english": "exchange",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 338,
+    "norwegian": "returnere",
+    "english": "return",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 339,
+    "norwegian": "garanti",
+    "english": "warranty",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 340,
+    "norwegian": "merke",
+    "english": "brand",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 341,
+    "norwegian": "farge",
+    "english": "color",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 342,
+    "norwegian": "svart",
+    "english": "black",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 343,
+    "norwegian": "hvit",
+    "english": "white",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 344,
+    "norwegian": "rød",
+    "english": "red",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 345,
+    "norwegian": "blå",
+    "english": "blue",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 346,
+    "norwegian": "grønn",
+    "english": "green",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 347,
+    "norwegian": "gul",
+    "english": "yellow",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 348,
+    "norwegian": "brun",
+    "english": "brown",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 349,
+    "norwegian": "grå",
+    "english": "gray",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 350,
+    "norwegian": "rosa",
+    "english": "pink",
+    "level": "A1",
+    "category": "Shopping"
+  },
+  {
+    "id": 351,
+    "norwegian": "skole",
+    "english": "school",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 352,
+    "norwegian": "klasserom",
+    "english": "classroom",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 353,
+    "norwegian": "klasse",
+    "english": "class",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 354,
+    "norwegian": "kurs",
+    "english": "course",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 355,
+    "norwegian": "fag",
+    "english": "subject",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 356,
+    "norwegian": "lekse",
+    "english": "homework",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 357,
+    "norwegian": "prøve",
+    "english": "test",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 358,
+    "norwegian": "eksamen",
+    "english": "exam",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 359,
+    "norwegian": "karakter",
+    "english": "grade",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 360,
+    "norwegian": "friminutt",
+    "english": "break",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 361,
+    "norwegian": "timeplan",
+    "english": "timetable",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 362,
+    "norwegian": "undervisning",
+    "english": "teaching",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 363,
+    "norwegian": "læring",
+    "english": "learning",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 364,
+    "norwegian": "utdanning",
+    "english": "education",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 365,
+    "norwegian": "universitet",
+    "english": "university",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 366,
+    "norwegian": "høyskole",
+    "english": "college",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 367,
+    "norwegian": "bibliotek",
+    "english": "library",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 368,
+    "norwegian": "kantine",
+    "english": "canteen",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 369,
+    "norwegian": "kontor",
+    "english": "office",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 370,
+    "norwegian": "rektor",
+    "english": "principal",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 371,
+    "norwegian": "tavle",
+    "english": "board",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 372,
+    "norwegian": "viskelær",
+    "english": "eraser",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 373,
+    "norwegian": "blyant",
+    "english": "pencil",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 374,
+    "norwegian": "blyantspisser",
+    "english": "sharpener",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 375,
+    "norwegian": "notatbok",
+    "english": "notebook",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 376,
+    "norwegian": "ark",
+    "english": "sheet",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 377,
+    "norwegian": "mappe",
+    "english": "folder",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 378,
+    "norwegian": "sekk",
+    "english": "backpack",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 379,
+    "norwegian": "linjal",
+    "english": "ruler",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 380,
+    "norwegian": "kalkulator",
+    "english": "calculator",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 381,
+    "norwegian": "datamaskin",
+    "english": "computer",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 382,
+    "norwegian": "skjerm",
+    "english": "screen",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 383,
+    "norwegian": "mus",
+    "english": "mouse",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 384,
+    "norwegian": "tastatur",
+    "english": "keyboard",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 385,
+    "norwegian": "internett",
+    "english": "internet",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 386,
+    "norwegian": "oppgave",
+    "english": "assignment",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 387,
+    "norwegian": "svar",
+    "english": "answer",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 388,
+    "norwegian": "spørsmål",
+    "english": "question",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 389,
+    "norwegian": "gruppe",
+    "english": "group",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 390,
+    "norwegian": "partner",
+    "english": "partner",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 391,
+    "norwegian": "lese",
+    "english": "read",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 392,
+    "norwegian": "skrive",
+    "english": "write",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 393,
+    "norwegian": "snakke",
+    "english": "speak",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 394,
+    "norwegian": "lytte",
+    "english": "listen",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 395,
+    "norwegian": "forstå",
+    "english": "understand",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 396,
+    "norwegian": "lære",
+    "english": "learn",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 397,
+    "norwegian": "øve",
+    "english": "practice",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 398,
+    "norwegian": "huske",
+    "english": "remember",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 399,
+    "norwegian": "glemme",
+    "english": "forget",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 400,
+    "norwegian": "forklare",
+    "english": "explain",
+    "level": "A1",
+    "category": "School"
+  },
+  {
+    "id": 401,
+    "norwegian": "arbeid",
+    "english": "work",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 402,
+    "norwegian": "jobb",
+    "english": "job",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 403,
+    "norwegian": "arbeidsplass",
+    "english": "workplace",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 404,
+    "norwegian": "kollega",
+    "english": "colleague",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 405,
+    "norwegian": "sjef",
+    "english": "boss",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 406,
+    "norwegian": "ansatt",
+    "english": "employee",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 407,
+    "norwegian": "arbeidsgiver",
+    "english": "employer",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 408,
+    "norwegian": "yrke",
+    "english": "occupation",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 409,
+    "norwegian": "stilling",
+    "english": "position",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 410,
+    "norwegian": "heltid",
+    "english": "full-time",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 411,
+    "norwegian": "deltid",
+    "english": "part-time",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 412,
+    "norwegian": "vakt",
+    "english": "shift",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 413,
+    "norwegian": "pause",
+    "english": "break",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 414,
+    "norwegian": "lunsjpause",
+    "english": "lunch break",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 415,
+    "norwegian": "arbeidstid",
+    "english": "working hours",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 416,
+    "norwegian": "lønn",
+    "english": "salary",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 417,
+    "norwegian": "skatt",
+    "english": "tax",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 418,
+    "norwegian": "feriepenger",
+    "english": "holiday pay",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 419,
+    "norwegian": "sykmelding",
+    "english": "sick leave",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 420,
+    "norwegian": "fridag",
+    "english": "day off",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 421,
+    "norwegian": "søknad",
+    "english": "application",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 422,
+    "norwegian": "intervju",
+    "english": "interview",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 423,
+    "norwegian": "erfaring",
+    "english": "experience",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 424,
+    "norwegian": "utdanning",
+    "english": "education",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 425,
+    "norwegian": "kurs",
+    "english": "course",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 426,
+    "norwegian": "sertifikat",
+    "english": "certificate",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 427,
+    "norwegian": "møte",
+    "english": "meeting",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 428,
+    "norwegian": "avtale",
+    "english": "appointment",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 429,
+    "norwegian": "prosjekt",
+    "english": "project",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 430,
+    "norwegian": "oppgave",
+    "english": "task",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 431,
+    "norwegian": "ansvar",
+    "english": "responsibility",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 432,
+    "norwegian": "uniform",
+    "english": "uniform",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 433,
+    "norwegian": "kontor",
+    "english": "office",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 434,
+    "norwegian": "resepsjon",
+    "english": "reception",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 435,
+    "norwegian": "lager",
+    "english": "warehouse",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 436,
+    "norwegian": "butikkmedarbeider",
+    "english": "shop assistant",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 437,
+    "norwegian": "renholder",
+    "english": "cleaner",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 438,
+    "norwegian": "kokk",
+    "english": "cook",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 439,
+    "norwegian": "sjåfør",
+    "english": "driver",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 440,
+    "norwegian": "vekter",
+    "english": "security guard",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 441,
+    "norwegian": "lege",
+    "english": "doctor",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 442,
+    "norwegian": "sykepleier",
+    "english": "nurse",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 443,
+    "norwegian": "mekaniker",
+    "english": "mechanic",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 444,
+    "norwegian": "elektriker",
+    "english": "electrician",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 445,
+    "norwegian": "snekker",
+    "english": "carpenter",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 446,
+    "norwegian": "kunde",
+    "english": "customer",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 447,
+    "norwegian": "telefon",
+    "english": "telephone",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 448,
+    "norwegian": "epost",
+    "english": "email",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 449,
+    "norwegian": "rapport",
+    "english": "report",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 450,
+    "norwegian": "samarbeid",
+    "english": "cooperation",
+    "level": "A1",
+    "category": "Work"
+  },
+  {
+    "id": 451,
+    "norwegian": "transport",
+    "english": "transport",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 452,
+    "norwegian": "reise",
+    "english": "travel",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 453,
+    "norwegian": "reisende",
+    "english": "traveler",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 454,
+    "norwegian": "stasjon",
+    "english": "station",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 455,
+    "norwegian": "holdeplass",
+    "english": "stop",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 456,
+    "norwegian": "billett",
+    "english": "ticket",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 457,
+    "norwegian": "månedskort",
+    "english": "monthly pass",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 458,
+    "norwegian": "reisekort",
+    "english": "travel card",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 459,
+    "norwegian": "avgang",
+    "english": "departure",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 460,
+    "norwegian": "ankomst",
+    "english": "arrival",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 461,
+    "norwegian": "plattform",
+    "english": "platform",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 462,
+    "norwegian": "spor",
+    "english": "track",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 463,
+    "norwegian": "inngang",
+    "english": "entrance",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 464,
+    "norwegian": "utgang",
+    "english": "exit",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 465,
+    "norwegian": "sentrum",
+    "english": "city center",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 466,
+    "norwegian": "flyplass",
+    "english": "airport",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 467,
+    "norwegian": "fly",
+    "english": "airplane",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 468,
+    "norwegian": "trikk",
+    "english": "tram",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 469,
+    "norwegian": "taxi",
+    "english": "taxi",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 470,
+    "norwegian": "båt",
+    "english": "boat",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 471,
+    "norwegian": "ferge",
+    "english": "ferry",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 472,
+    "norwegian": "passasjer",
+    "english": "passenger",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 473,
+    "norwegian": "sjåfør",
+    "english": "driver",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 474,
+    "norwegian": "fører",
+    "english": "driver",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 475,
+    "norwegian": "førerkort",
+    "english": "driving licence",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 476,
+    "norwegian": "trafikk",
+    "english": "traffic",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 477,
+    "norwegian": "trafikklys",
+    "english": "traffic light",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 478,
+    "norwegian": "fotgjenger",
+    "english": "pedestrian",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 479,
+    "norwegian": "fortau",
+    "english": "sidewalk",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 480,
+    "norwegian": "gangfelt",
+    "english": "crosswalk",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 481,
+    "norwegian": "vei",
+    "english": "road",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 482,
+    "norwegian": "gate",
+    "english": "street",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 483,
+    "norwegian": "kryss",
+    "english": "intersection",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 484,
+    "norwegian": "rundkjøring",
+    "english": "roundabout",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 485,
+    "norwegian": "parkering",
+    "english": "parking",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 486,
+    "norwegian": "parkeringsplass",
+    "english": "parking space",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 487,
+    "norwegian": "sykkelvei",
+    "english": "bike lane",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 488,
+    "norwegian": "motorvei",
+    "english": "motorway",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 489,
+    "norwegian": "kart",
+    "english": "map",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 490,
+    "norwegian": "retning",
+    "english": "direction",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 491,
+    "norwegian": "venstre",
+    "english": "left",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 492,
+    "norwegian": "høyre",
+    "english": "right",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 493,
+    "norwegian": "rett",
+    "english": "straight",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 494,
+    "norwegian": "nær",
+    "english": "near",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 495,
+    "norwegian": "langt",
+    "english": "far",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 496,
+    "norwegian": "reisevei",
+    "english": "route",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 497,
+    "norwegian": "forsinkelse",
+    "english": "delay",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 498,
+    "norwegian": "rute",
+    "english": "route",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 499,
+    "norwegian": "reiseplan",
+    "english": "travel plan",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 500,
+    "norwegian": "bagasje",
+    "english": "luggage",
+    "level": "A1",
+    "category": "Transport"
+  },
+  {
+    "id": 501,
+    "norwegian": "helse",
+    "english": "health",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 502,
+    "norwegian": "kropp",
+    "english": "body",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 503,
+    "norwegian": "hode",
+    "english": "head",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 504,
+    "norwegian": "ansikt",
+    "english": "face",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 505,
+    "norwegian": "øye",
+    "english": "eye",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 506,
+    "norwegian": "øre",
+    "english": "ear",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 507,
+    "norwegian": "nese",
+    "english": "nose",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 508,
+    "norwegian": "munn",
+    "english": "mouth",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 509,
+    "norwegian": "tann",
+    "english": "tooth",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 510,
+    "norwegian": "hals",
+    "english": "throat",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 511,
+    "norwegian": "nakke",
+    "english": "neck",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 512,
+    "norwegian": "skulder",
+    "english": "shoulder",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 513,
+    "norwegian": "arm",
+    "english": "arm",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 514,
+    "norwegian": "hånd",
+    "english": "hand",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 515,
+    "norwegian": "finger",
+    "english": "finger",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 516,
+    "norwegian": "bein",
+    "english": "leg",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 517,
+    "norwegian": "kne",
+    "english": "knee",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 518,
+    "norwegian": "fot",
+    "english": "foot",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 519,
+    "norwegian": "tå",
+    "english": "toe",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 520,
+    "norwegian": "mage",
+    "english": "stomach",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 521,
+    "norwegian": "rygg",
+    "english": "back",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 522,
+    "norwegian": "hjerte",
+    "english": "heart",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 523,
+    "norwegian": "blod",
+    "english": "blood",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 524,
+    "norwegian": "hud",
+    "english": "skin",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 525,
+    "norwegian": "hår",
+    "english": "hair",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 526,
+    "norwegian": "feber",
+    "english": "fever",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 527,
+    "norwegian": "forkjølelse",
+    "english": "cold",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 528,
+    "norwegian": "hoste",
+    "english": "cough",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 529,
+    "norwegian": "smerte",
+    "english": "pain",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 530,
+    "norwegian": "syk",
+    "english": "sick",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 531,
+    "norwegian": "frisk",
+    "english": "healthy",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 532,
+    "norwegian": "sykdom",
+    "english": "illness",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 533,
+    "norwegian": "skade",
+    "english": "injury",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 534,
+    "norwegian": "sår",
+    "english": "wound",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 535,
+    "norwegian": "ulykke",
+    "english": "accident",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 536,
+    "norwegian": "medisin",
+    "english": "medicine",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 537,
+    "norwegian": "tablett",
+    "english": "tablet",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 538,
+    "norwegian": "resept",
+    "english": "prescription",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 539,
+    "norwegian": "legevakt",
+    "english": "emergency clinic",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 540,
+    "norwegian": "sykehus",
+    "english": "hospital",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 541,
+    "norwegian": "pasient",
+    "english": "patient",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 542,
+    "norwegian": "tannlege",
+    "english": "dentist",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 543,
+    "norwegian": "undersøkelse",
+    "english": "examination",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 544,
+    "norwegian": "behandling",
+    "english": "treatment",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 545,
+    "norwegian": "vaksine",
+    "english": "vaccine",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 546,
+    "norwegian": "allergi",
+    "english": "allergy",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 547,
+    "norwegian": "søvn",
+    "english": "sleep",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 548,
+    "norwegian": "hvile",
+    "english": "rest",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 549,
+    "norwegian": "trening",
+    "english": "exercise",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 550,
+    "norwegian": "ambulanse",
+    "english": "ambulance",
+    "level": "A1",
+    "category": "Health"
+  },
+  {
+    "id": 551,
+    "norwegian": "vær",
+    "english": "weather",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 552,
+    "norwegian": "sol",
+    "english": "sun",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 553,
+    "norwegian": "regn",
+    "english": "rain",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 554,
+    "norwegian": "snø",
+    "english": "snow",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 555,
+    "norwegian": "vind",
+    "english": "wind",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 556,
+    "norwegian": "sky",
+    "english": "cloud",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 557,
+    "norwegian": "tåke",
+    "english": "fog",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 558,
+    "norwegian": "storm",
+    "english": "storm",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 559,
+    "norwegian": "lyn",
+    "english": "lightning",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 560,
+    "norwegian": "torden",
+    "english": "thunder",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 561,
+    "norwegian": "grad",
+    "english": "degree",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 562,
+    "norwegian": "temperatur",
+    "english": "temperature",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 563,
+    "norwegian": "varm",
+    "english": "warm",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 564,
+    "norwegian": "kald",
+    "english": "cold",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 565,
+    "norwegian": "kjølig",
+    "english": "cool",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 566,
+    "norwegian": "het",
+    "english": "hot",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 567,
+    "norwegian": "minus",
+    "english": "minus",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 568,
+    "norwegian": "pluss",
+    "english": "plus",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 569,
+    "norwegian": "frost",
+    "english": "frost",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 570,
+    "norwegian": "is",
+    "english": "ice",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 571,
+    "norwegian": "vår",
+    "english": "spring",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 572,
+    "norwegian": "sommer",
+    "english": "summer",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 573,
+    "norwegian": "høst",
+    "english": "autumn",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 574,
+    "norwegian": "vinter",
+    "english": "winter",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 575,
+    "norwegian": "årstid",
+    "english": "season",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 576,
+    "norwegian": "solskinn",
+    "english": "sunshine",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 577,
+    "norwegian": "regnvær",
+    "english": "rainy weather",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 578,
+    "norwegian": "snøvær",
+    "english": "snowy weather",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 579,
+    "norwegian": "uvær",
+    "english": "bad weather",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 580,
+    "norwegian": "vindfull",
+    "english": "windy",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 581,
+    "norwegian": "overskyet",
+    "english": "cloudy",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 582,
+    "norwegian": "klar",
+    "english": "clear",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 583,
+    "norwegian": "mørk",
+    "english": "dark",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 584,
+    "norwegian": "lys",
+    "english": "bright",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 585,
+    "norwegian": "tørr",
+    "english": "dry",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 586,
+    "norwegian": "våt",
+    "english": "wet",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 587,
+    "norwegian": "paraply",
+    "english": "umbrella",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 588,
+    "norwegian": "regnjakke",
+    "english": "rain jacket",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 589,
+    "norwegian": "støvler",
+    "english": "boots",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 590,
+    "norwegian": "hanske",
+    "english": "glove",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 591,
+    "norwegian": "lue",
+    "english": "hat",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 592,
+    "norwegian": "skjerf",
+    "english": "scarf",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 593,
+    "norwegian": "værmelding",
+    "english": "weather forecast",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 594,
+    "norwegian": "meteorolog",
+    "english": "meteorologist",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 595,
+    "norwegian": "ute",
+    "english": "outside",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 596,
+    "norwegian": "inne",
+    "english": "inside",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 597,
+    "norwegian": "himmel",
+    "english": "sky",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 598,
+    "norwegian": "snøfnugg",
+    "english": "snowflake",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 599,
+    "norwegian": "regndråpe",
+    "english": "raindrop",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 600,
+    "norwegian": "klima",
+    "english": "climate",
+    "level": "A1",
+    "category": "Weather"
+  },
+  {
+    "id": 601,
+    "norwegian": "klær",
+    "english": "clothes",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 602,
+    "norwegian": "bukse",
+    "english": "trousers",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 603,
+    "norwegian": "jeans",
+    "english": "jeans",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 604,
+    "norwegian": "skjorte",
+    "english": "shirt",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 605,
+    "norwegian": "t-skjorte",
+    "english": "t-shirt",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 606,
+    "norwegian": "genser",
+    "english": "sweater",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 607,
+    "norwegian": "jakke",
+    "english": "jacket",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 608,
+    "norwegian": "kåpe",
+    "english": "coat",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 609,
+    "norwegian": "dress",
+    "english": "suit",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 610,
+    "norwegian": "kjole",
+    "english": "dress",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 611,
+    "norwegian": "skjørt",
+    "english": "skirt",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 612,
+    "norwegian": "shorts",
+    "english": "shorts",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 613,
+    "norwegian": "sokk",
+    "english": "sock",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 614,
+    "norwegian": "sko",
+    "english": "shoe",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 615,
+    "norwegian": "støvel",
+    "english": "boot",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 616,
+    "norwegian": "sandaler",
+    "english": "sandals",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 617,
+    "norwegian": "joggesko",
+    "english": "trainers",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 618,
+    "norwegian": "tøffel",
+    "english": "slipper",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 619,
+    "norwegian": "belte",
+    "english": "belt",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 620,
+    "norwegian": "veske",
+    "english": "bag",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 621,
+    "norwegian": "ryggsekk",
+    "english": "backpack",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 622,
+    "norwegian": "lommebok",
+    "english": "wallet",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 623,
+    "norwegian": "caps",
+    "english": "cap",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 624,
+    "norwegian": "hatt",
+    "english": "hat",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 625,
+    "norwegian": "frakk",
+    "english": "overcoat",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 626,
+    "norwegian": "regnfrakk",
+    "english": "raincoat",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 627,
+    "norwegian": "vinterjakke",
+    "english": "winter jacket",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 628,
+    "norwegian": "ullgenser",
+    "english": "wool sweater",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 629,
+    "norwegian": "ullsokk",
+    "english": "wool sock",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 630,
+    "norwegian": "undertøy",
+    "english": "underwear",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 631,
+    "norwegian": "bh",
+    "english": "bra",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 632,
+    "norwegian": "truse",
+    "english": "underpants",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 633,
+    "norwegian": "pyjamas",
+    "english": "pyjamas",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 634,
+    "norwegian": "badedrakt",
+    "english": "swimsuit",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 635,
+    "norwegian": "badebukse",
+    "english": "swimming trunks",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 636,
+    "norwegian": "hanske",
+    "english": "glove",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 637,
+    "norwegian": "vott",
+    "english": "mitten",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 638,
+    "norwegian": "knapp",
+    "english": "button",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 639,
+    "norwegian": "glidelås",
+    "english": "zipper",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 640,
+    "norwegian": "lomme",
+    "english": "pocket",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 641,
+    "norwegian": "størrelse",
+    "english": "size",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 642,
+    "norwegian": "medium",
+    "english": "medium",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 643,
+    "norwegian": "liten",
+    "english": "small",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 644,
+    "norwegian": "stor",
+    "english": "large",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 645,
+    "norwegian": "ny",
+    "english": "new",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 646,
+    "norwegian": "gammel",
+    "english": "old",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 647,
+    "norwegian": "ren",
+    "english": "clean",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 648,
+    "norwegian": "skitten",
+    "english": "dirty",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 649,
+    "norwegian": "mote",
+    "english": "fashion",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 650,
+    "norwegian": "smykke",
+    "english": "jewelry",
+    "level": "A1",
+    "category": "Clothing"
+  },
+  {
+    "id": 651,
+    "norwegian": "hobby",
+    "english": "hobby",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 652,
+    "norwegian": "fritid",
+    "english": "free time",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 653,
+    "norwegian": "interesse",
+    "english": "interest",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 654,
+    "norwegian": "sport",
+    "english": "sport",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 655,
+    "norwegian": "fotball",
+    "english": "football",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 656,
+    "norwegian": "håndball",
+    "english": "handball",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 657,
+    "norwegian": "basketball",
+    "english": "basketball",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 658,
+    "norwegian": "svømming",
+    "english": "swimming",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 659,
+    "norwegian": "løping",
+    "english": "running",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 660,
+    "norwegian": "gåtur",
+    "english": "walk",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 661,
+    "norwegian": "tur",
+    "english": "trip",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 662,
+    "norwegian": "sykling",
+    "english": "cycling",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 663,
+    "norwegian": "ski",
+    "english": "skiing",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 664,
+    "norwegian": "trening",
+    "english": "training",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 665,
+    "norwegian": "treningssenter",
+    "english": "gym",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 666,
+    "norwegian": "yoga",
+    "english": "yoga",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 667,
+    "norwegian": "dans",
+    "english": "dance",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 668,
+    "norwegian": "musikk",
+    "english": "music",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 669,
+    "norwegian": "sang",
+    "english": "song",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 670,
+    "norwegian": "gitar",
+    "english": "guitar",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 671,
+    "norwegian": "piano",
+    "english": "piano",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 672,
+    "norwegian": "konsert",
+    "english": "concert",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 673,
+    "norwegian": "kino",
+    "english": "cinema",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 674,
+    "norwegian": "film",
+    "english": "movie",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 675,
+    "norwegian": "serie",
+    "english": "series",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 676,
+    "norwegian": "tv",
+    "english": "television",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 677,
+    "norwegian": "spill",
+    "english": "game",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 678,
+    "norwegian": "dataspill",
+    "english": "video game",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 679,
+    "norwegian": "kortspill",
+    "english": "card game",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 680,
+    "norwegian": "sjakk",
+    "english": "chess",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 681,
+    "norwegian": "bok",
+    "english": "book",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 682,
+    "norwegian": "avis",
+    "english": "newspaper",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 683,
+    "norwegian": "blad",
+    "english": "magazine",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 684,
+    "norwegian": "historie",
+    "english": "story",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 685,
+    "norwegian": "tegning",
+    "english": "drawing",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 686,
+    "norwegian": "maling",
+    "english": "painting",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 687,
+    "norwegian": "kamera",
+    "english": "camera",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 688,
+    "norwegian": "fotografi",
+    "english": "photography",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 689,
+    "norwegian": "bilde",
+    "english": "picture",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 690,
+    "norwegian": "internett",
+    "english": "internet",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 691,
+    "norwegian": "venner",
+    "english": "friends",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 692,
+    "norwegian": "besøk",
+    "english": "visit",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 693,
+    "norwegian": "fest",
+    "english": "party",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 694,
+    "norwegian": "grilling",
+    "english": "barbecue",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 695,
+    "norwegian": "camping",
+    "english": "camping",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 696,
+    "norwegian": "fiske",
+    "english": "fishing",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 697,
+    "norwegian": "hagearbeid",
+    "english": "gardening",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 698,
+    "norwegian": "matlaging",
+    "english": "cooking",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 699,
+    "norwegian": "baking",
+    "english": "baking",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 700,
+    "norwegian": "samling",
+    "english": "gathering",
+    "level": "A1",
+    "category": "Hobbies"
+  },
+  {
+    "id": 701,
+    "norwegian": "være",
+    "english": "to be",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 702,
+    "norwegian": "ha",
+    "english": "to have",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 703,
+    "norwegian": "gjøre",
+    "english": "to do",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 704,
+    "norwegian": "gå",
+    "english": "to walk",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 705,
+    "norwegian": "komme",
+    "english": "to come",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 706,
+    "norwegian": "dra",
+    "english": "to go",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 707,
+    "norwegian": "bo",
+    "english": "to live",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 708,
+    "norwegian": "hete",
+    "english": "to be called",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 709,
+    "norwegian": "snakke",
+    "english": "to speak",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 710,
+    "norwegian": "si",
+    "english": "to say",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 711,
+    "norwegian": "spørre",
+    "english": "to ask",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 712,
+    "norwegian": "svare",
+    "english": "to answer",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 713,
+    "norwegian": "forstå",
+    "english": "to understand",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 714,
+    "norwegian": "vite",
+    "english": "to know",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 715,
+    "norwegian": "tro",
+    "english": "to believe",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 716,
+    "norwegian": "høre",
+    "english": "to hear",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 717,
+    "norwegian": "lytte",
+    "english": "to listen",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 718,
+    "norwegian": "se",
+    "english": "to see",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 719,
+    "norwegian": "se på",
+    "english": "to watch",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 720,
+    "norwegian": "finne",
+    "english": "to find",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 721,
+    "norwegian": "lese",
+    "english": "to read",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 722,
+    "norwegian": "skrive",
+    "english": "to write",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 723,
+    "norwegian": "lære",
+    "english": "to learn",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 724,
+    "norwegian": "studere",
+    "english": "to study",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 725,
+    "norwegian": "øve",
+    "english": "to practice",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 726,
+    "norwegian": "jobbe",
+    "english": "to work",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 727,
+    "norwegian": "begynne",
+    "english": "to start",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 728,
+    "norwegian": "slutte",
+    "english": "to finish",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 729,
+    "norwegian": "vente",
+    "english": "to wait",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 730,
+    "norwegian": "hjelpe",
+    "english": "to help",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 731,
+    "norwegian": "gi",
+    "english": "to give",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 732,
+    "norwegian": "ta",
+    "english": "to take",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 733,
+    "norwegian": "kjøpe",
+    "english": "to buy",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 734,
+    "norwegian": "betale",
+    "english": "to pay",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 735,
+    "norwegian": "selge",
+    "english": "to sell",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 736,
+    "norwegian": "åpne",
+    "english": "to open",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 737,
+    "norwegian": "lukke",
+    "english": "to close",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 738,
+    "norwegian": "spise",
+    "english": "to eat",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 739,
+    "norwegian": "drikke",
+    "english": "to drink",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 740,
+    "norwegian": "lage",
+    "english": "to make",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 741,
+    "norwegian": "sove",
+    "english": "to sleep",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 742,
+    "norwegian": "stå opp",
+    "english": "to get up",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 743,
+    "norwegian": "vaske",
+    "english": "to wash",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 744,
+    "norwegian": "dusje",
+    "english": "to shower",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 745,
+    "norwegian": "kle på",
+    "english": "to dress",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 746,
+    "norwegian": "reise",
+    "english": "to travel",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 747,
+    "norwegian": "kjøre",
+    "english": "to drive",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 748,
+    "norwegian": "møte",
+    "english": "to meet",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 749,
+    "norwegian": "elske",
+    "english": "to love",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 750,
+    "norwegian": "like",
+    "english": "to like",
+    "level": "A1",
+    "category": "Verbs"
+  },
+  {
+    "id": 751,
+    "norwegian": "stor",
+    "english": "big",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 752,
+    "norwegian": "liten",
+    "english": "small",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 753,
+    "norwegian": "lang",
+    "english": "long",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 754,
+    "norwegian": "kort",
+    "english": "short",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 755,
+    "norwegian": "høy",
+    "english": "tall/high",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 756,
+    "norwegian": "lav",
+    "english": "low/short",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 757,
+    "norwegian": "bred",
+    "english": "wide",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 758,
+    "norwegian": "smal",
+    "english": "narrow",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 759,
+    "norwegian": "tung",
+    "english": "heavy",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 760,
+    "norwegian": "lett",
+    "english": "light/easy",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 761,
+    "norwegian": "ny",
+    "english": "new",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 762,
+    "norwegian": "gammel",
+    "english": "old",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 763,
+    "norwegian": "ung",
+    "english": "young",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 764,
+    "norwegian": "vakker",
+    "english": "beautiful",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 765,
+    "norwegian": "pen",
+    "english": "pretty",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 766,
+    "norwegian": "stygg",
+    "english": "ugly",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 767,
+    "norwegian": "ren",
+    "english": "clean",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 768,
+    "norwegian": "skitten",
+    "english": "dirty",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 769,
+    "norwegian": "rik",
+    "english": "rich",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 770,
+    "norwegian": "fattig",
+    "english": "poor",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 771,
+    "norwegian": "glad",
+    "english": "happy",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 772,
+    "norwegian": "trist",
+    "english": "sad",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 773,
+    "norwegian": "sint",
+    "english": "angry",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 774,
+    "norwegian": "snill",
+    "english": "kind",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 775,
+    "norwegian": "hyggelig",
+    "english": "nice",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 776,
+    "norwegian": "vennlig",
+    "english": "friendly",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 777,
+    "norwegian": "rolig",
+    "english": "calm",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 778,
+    "norwegian": "stresset",
+    "english": "stressed",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 779,
+    "norwegian": "sliten",
+    "english": "tired",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 780,
+    "norwegian": "opplagt",
+    "english": "rested",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 781,
+    "norwegian": "syk",
+    "english": "ill",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 782,
+    "norwegian": "frisk",
+    "english": "healthy",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 783,
+    "norwegian": "sulten",
+    "english": "hungry",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 784,
+    "norwegian": "tørst",
+    "english": "thirsty",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 785,
+    "norwegian": "mett",
+    "english": "full",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 786,
+    "norwegian": "varm",
+    "english": "warm",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 787,
+    "norwegian": "kald",
+    "english": "cold",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 788,
+    "norwegian": "våt",
+    "english": "wet",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 789,
+    "norwegian": "tørr",
+    "english": "dry",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 790,
+    "norwegian": "mørk",
+    "english": "dark",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 791,
+    "norwegian": "lys",
+    "english": "bright",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 792,
+    "norwegian": "rask",
+    "english": "fast",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 793,
+    "norwegian": "langsom",
+    "english": "slow",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 794,
+    "norwegian": "enkel",
+    "english": "simple",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 795,
+    "norwegian": "vanskelig",
+    "english": "difficult",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 796,
+    "norwegian": "viktig",
+    "english": "important",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 797,
+    "norwegian": "interessant",
+    "english": "interesting",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 798,
+    "norwegian": "kjedelig",
+    "english": "boring",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 799,
+    "norwegian": "billig",
+    "english": "cheap",
+    "level": "A1",
+    "category": "Adjectives"
+  },
+  {
+    "id": 800,
+    "norwegian": "dyr",
+    "english": "expensive",
+    "level": "A1",
+    "category": "Adjectives"
   }
 ]
