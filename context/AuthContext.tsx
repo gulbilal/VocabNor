@@ -1,18 +1,17 @@
 import {
-  createUserWithEmailAndPassword,
   onAuthStateChanged,
-  signInWithEmailAndPassword,
   signOut as firebaseSignOut,
   type User,
 } from "firebase/auth";
 import React, { createContext, useContext, useEffect, useState } from "react";
 import { auth } from "../firebase/auth";
+import { signInWithEmail, signUpWithEmail } from "../firebase/services";
 
 type AuthContextValue = {
   user: User | null;
   isLoading: boolean;
   signIn: (email: string, password: string) => Promise<void>;
-  signUp: (email: string, password: string) => Promise<void>;
+  signUp: (email: string, password: string, username: string) => Promise<void>;
   signOut: () => Promise<void>;
 };
 
@@ -30,11 +29,11 @@ export function AuthProvider({ children }: React.PropsWithChildren) {
   }, []);
 
   async function signIn(email: string, password: string) {
-    await signInWithEmailAndPassword(auth, email.trim(), password);
+    await signInWithEmail(email, password);
   }
 
-  async function signUp(email: string, password: string) {
-    await createUserWithEmailAndPassword(auth, email.trim(), password);
+  async function signUp(email: string, password: string, username: string) {
+    await signUpWithEmail(email, password, username);
   }
 
   async function signOut() {

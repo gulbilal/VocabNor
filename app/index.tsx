@@ -22,9 +22,9 @@ export default function Index() {
 
         <Pressable
           style={styles.button}
-          onPress={() => alert("Feature Coming Soon: Leaderboard")}
+          onPress={() => router.push("./highscore")}
         >
-          <Text style={styles.buttonText}>Leaderboard</Text>
+          <Text style={styles.buttonText}>High Scores</Text>
         </Pressable>
 
         <Pressable

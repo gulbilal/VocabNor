@@ -1,4 +1,5 @@
 import { getApps, initializeApp } from "firebase/app";
+import { getFirestore } from "firebase/firestore";
 
 // Replace these placeholder values with your Firebase web app configuration.
 const firebaseConfig = {
@@ -12,3 +13,5 @@ const firebaseConfig = {
 
 export const firebaseApp =
   getApps().length === 0 ? initializeApp(firebaseConfig) : getApps()[0];
+
+export const db = getFirestore(firebaseApp);

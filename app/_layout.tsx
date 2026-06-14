@@ -31,6 +31,7 @@ function RootNavigator() {
       <Stack.Protected guard={Boolean(user)}>
         <Stack.Screen name="index" options={{ headerShown: false }} />
         <Stack.Screen name="game" options={{ title: "VocabNor" }} />
+        <Stack.Screen name="highscore" options={{ title: "High Scores" }} />
       </Stack.Protected>
     </Stack>
   );

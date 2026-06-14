@@ -1,6 +1,5 @@
 import { Link } from "expo-router";
-import { FirebaseError } from "firebase/app";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   ActivityIndicator,
   KeyboardAvoidingView,
@@ -13,39 +12,55 @@ import {
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useAuth } from "../context/AuthContext";
-
-function getErrorMessage(error: unknown) {
-  if (error instanceof FirebaseError) {
-    return error.message.replace("Firebase: ", "");
-  }
-
-  return "Unable to create your account. Please try again.";
-}
+import { getFriendlyAuthError, validateUsername } from "../firebase/services";
+import { useGoogleSignIn } from "../hooks/useGoogleSignIn";
 
 export default function SignupScreen() {
   const { signUp } = useAuth();
+  const { googleError, isGoogleLoading, isGoogleReady, signInWithGoogle } =
+    useGoogleSignIn();
+  const [username, setUsername] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
+  useEffect(() => {
+    if (googleError) {
+      setErrorMessage(googleError);
+    }
+  }, [googleError]);
+
   async function handleSignup() {
     setErrorMessage("");
 
-    if (password.length < 6) {
-      setErrorMessage("Password must contain at least 6 characters.");
-      return;
-    }
-
-    setIsSubmitting(true);
-
     try {
-      await signUp(email, password);
+      validateUsername(username);
+
+      if (password.length < 6) {
+        throw new Error("Password must contain at least 6 characters.");
+      }
+
+      setIsSubmitting(true);
+      await signUp(email, password, username);
     } catch (error) {
-      setErrorMessage(getErrorMessage(error));
+      setErrorMessage(
+        error instanceof Error &&
+          error.message === "Password must contain at least 6 characters."
+          ? error.message
+          : getFriendlyAuthError(
+              error,
+              "Unable to create your account. Please try again.",
+            ),
+      );
     } finally {
       setIsSubmitting(false);
     }
+  }
+
+  async function handleGoogleSignup() {
+    setErrorMessage("");
+    await signInWithGoogle();
   }
 
   return (
@@ -58,6 +73,14 @@ export default function SignupScreen() {
           <Text style={styles.title}>Create Account</Text>
           <Text style={styles.subtitle}>Start practicing Norwegian words</Text>
 
+          <TextInput
+            autoCapitalize="none"
+            autoComplete="username"
+            onChangeText={setUsername}
+            placeholder="Username"
+            style={styles.input}
+            value={username}
+          />
           <TextInput
             autoCapitalize="none"
             autoComplete="email"
@@ -83,11 +106,12 @@ export default function SignupScreen() {
           ) : null}
 
           <Pressable
-            disabled={isSubmitting || !email || !password}
+            disabled={isSubmitting || !username || !email || !password}
             onPress={handleSignup}
             style={({ pressed }) => [
               styles.button,
-              (isSubmitting || !email || !password) && styles.disabledButton,
+              (isSubmitting || !username || !email || !password) &&
+                styles.disabledButton,
               pressed && styles.pressedButton,
             ]}
           >
@@ -95,6 +119,28 @@ export default function SignupScreen() {
               <ActivityIndicator color="#fff" />
             ) : (
               <Text style={styles.buttonText}>Sign Up</Text>
+            )}
+          </Pressable>
+
+          <View style={styles.divider}>
+            <View style={styles.dividerLine} />
+            <Text style={styles.dividerText}>or</Text>
+            <View style={styles.dividerLine} />
+          </View>
+
+          <Pressable
+            disabled={isGoogleLoading || !isGoogleReady}
+            onPress={handleGoogleSignup}
+            style={({ pressed }) => [
+              styles.googleButton,
+              (isGoogleLoading || !isGoogleReady) && styles.disabledButton,
+              pressed && styles.pressedButton,
+            ]}
+          >
+            {isGoogleLoading ? (
+              <ActivityIndicator color="#0066cc" />
+            ) : (
+              <Text style={styles.googleButtonText}>Continue with Google</Text>
             )}
           </Pressable>
 
@@ -161,6 +207,33 @@ const styles = StyleSheet.create({
     color: "#fff",
     fontSize: 18,
     fontWeight: "bold",
+  },
+  googleButton: {
+    alignItems: "center",
+    backgroundColor: "#fff",
+    borderColor: "#3399ff",
+    borderRadius: 10,
+    borderWidth: 2,
+    height: 56,
+    justifyContent: "center",
+  },
+  googleButtonText: {
+    color: "#0066cc",
+    fontSize: 18,
+    fontWeight: "bold",
+  },
+  divider: {
+    alignItems: "center",
+    flexDirection: "row",
+    gap: 12,
+  },
+  dividerLine: {
+    backgroundColor: "#b8d8f0",
+    flex: 1,
+    height: 1,
+  },
+  dividerText: {
+    color: "#336699",
   },
   errorText: {
     color: "#a82020",

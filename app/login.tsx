@@ -1,6 +1,5 @@
 import { Link } from "expo-router";
-import { FirebaseError } from "firebase/app";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   ActivityIndicator,
   KeyboardAvoidingView,
@@ -13,21 +12,23 @@ import {
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useAuth } from "../context/AuthContext";
-
-function getErrorMessage(error: unknown) {
-  if (error instanceof FirebaseError) {
-    return error.message.replace("Firebase: ", "");
-  }
-
-  return "Unable to log in. Please try again.";
-}
+import { getFriendlyAuthError } from "../firebase/services";
+import { useGoogleSignIn } from "../hooks/useGoogleSignIn";
 
 export default function LoginScreen() {
   const { signIn } = useAuth();
+  const { googleError, isGoogleLoading, isGoogleReady, signInWithGoogle } =
+    useGoogleSignIn();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
+
+  useEffect(() => {
+    if (googleError) {
+      setErrorMessage(googleError);
+    }
+  }, [googleError]);
 
   async function handleLogin() {
     setErrorMessage("");
@@ -36,10 +37,17 @@ export default function LoginScreen() {
     try {
       await signIn(email, password);
     } catch (error) {
-      setErrorMessage(getErrorMessage(error));
+      setErrorMessage(
+        getFriendlyAuthError(error, "Unable to log in. Please try again."),
+      );
     } finally {
       setIsSubmitting(false);
     }
+  }
+
+  async function handleGoogleLogin() {
+    setErrorMessage("");
+    await signInWithGoogle();
   }
 
   return (
@@ -89,6 +97,28 @@ export default function LoginScreen() {
               <ActivityIndicator color="#fff" />
             ) : (
               <Text style={styles.buttonText}>Log In</Text>
+            )}
+          </Pressable>
+
+          <View style={styles.divider}>
+            <View style={styles.dividerLine} />
+            <Text style={styles.dividerText}>or</Text>
+            <View style={styles.dividerLine} />
+          </View>
+
+          <Pressable
+            disabled={isGoogleLoading || !isGoogleReady}
+            onPress={handleGoogleLogin}
+            style={({ pressed }) => [
+              styles.googleButton,
+              (isGoogleLoading || !isGoogleReady) && styles.disabledButton,
+              pressed && styles.pressedButton,
+            ]}
+          >
+            {isGoogleLoading ? (
+              <ActivityIndicator color="#0066cc" />
+            ) : (
+              <Text style={styles.googleButtonText}>Continue with Google</Text>
             )}
           </Pressable>
 
@@ -155,6 +185,33 @@ const styles = StyleSheet.create({
     color: "#fff",
     fontSize: 18,
     fontWeight: "bold",
+  },
+  googleButton: {
+    alignItems: "center",
+    backgroundColor: "#fff",
+    borderColor: "#3399ff",
+    borderRadius: 10,
+    borderWidth: 2,
+    height: 56,
+    justifyContent: "center",
+  },
+  googleButtonText: {
+    color: "#0066cc",
+    fontSize: 18,
+    fontWeight: "bold",
+  },
+  divider: {
+    alignItems: "center",
+    flexDirection: "row",
+    gap: 12,
+  },
+  dividerLine: {
+    backgroundColor: "#b8d8f0",
+    flex: 1,
+    height: 1,
+  },
+  dividerText: {
+    color: "#336699",
   },
   errorText: {
     color: "#a82020",
