@@ -2,6 +2,7 @@ import {
   createUserWithEmailAndPassword,
   deleteUser,
   GoogleAuthProvider,
+  sendPasswordResetEmail,
   signInWithCredential,
   signInWithEmailAndPassword,
   signOut,
@@ -148,6 +149,16 @@ export async function signInWithEmail(email: string, password: string) {
   await signInWithEmailAndPassword(auth, email.trim(), password);
 }
 
+export async function requestPasswordReset(email: string) {
+  const trimmedEmail = email.trim();
+
+  if (!trimmedEmail) {
+    throw new FriendlyError("Email is required.");
+  }
+
+  await sendPasswordResetEmail(auth, trimmedEmail);
+}
+
 function generateBaseUsername(user: User) {
   const source = user.displayName || user.email?.split("@")[0] || "user";
   const normalized = source
@@ -269,6 +280,8 @@ export function getFriendlyAuthError(error: unknown, fallback: string) {
       case "auth/network-request-failed":
       case "unavailable":
         return "Network unavailable. Check your connection and try again.";
+      case "auth/too-many-requests":
+        return "Too many attempts. Please wait a moment and try again.";
       case "permission-denied":
         return "Permission denied. Check your Firestore security rules.";
     }

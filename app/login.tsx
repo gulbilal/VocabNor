@@ -80,6 +80,10 @@ export default function LoginScreen() {
             value={password}
           />
 
+          <Link href="/forgot-password" style={styles.forgotPasswordLink}>
+            Forgot password?
+          </Link>
+
           {errorMessage ? (
             <Text style={styles.errorText}>{errorMessage}</Text>
           ) : null}
@@ -216,6 +220,11 @@ const styles = StyleSheet.create({
   errorText: {
     color: "#a82020",
     textAlign: "center",
+  },
+  forgotPasswordLink: {
+    alignSelf: "flex-end",
+    color: "#0066cc",
+    fontWeight: "bold",
   },
   footerText: {
     color: "#336699",

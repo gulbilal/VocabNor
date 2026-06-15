@@ -26,6 +26,10 @@ function RootNavigator() {
       <Stack.Protected guard={!user}>
         <Stack.Screen name="login" options={{ headerShown: false }} />
         <Stack.Screen name="signup" options={{ headerShown: false }} />
+        <Stack.Screen
+          name="forgot-password"
+          options={{ title: "Reset Password" }}
+        />
       </Stack.Protected>
 
       <Stack.Protected guard={Boolean(user)}>
